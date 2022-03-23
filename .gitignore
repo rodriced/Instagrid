@@ -1,0 +1,16 @@
+# OS X #
+########
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+
+# Xcode #
+#########
+
+xcuserdata/
