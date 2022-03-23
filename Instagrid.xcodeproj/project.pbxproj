@@ -65,7 +65,6 @@
 			isa = PBXGroup;
 			children = (
 				DC6B187127DADEEE007C49E0 /* Supporting Files */,
-				DC6B187427DADF26007C49E0 /* Model */,
 				DC6B187327DADF15007C49E0 /* Controller */,
 				DC6B187227DADF05007C49E0 /* View */,
 			);
@@ -100,13 +99,6 @@
 				DC6B186127DADBAB007C49E0 /* ViewController.swift */,
 			);
 			path = Controller;
-			sourceTree = "<group>";
-		};
-		DC6B187427DADF26007C49E0 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
